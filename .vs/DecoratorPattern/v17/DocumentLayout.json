@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\beverages\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\beverages\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\blackchocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\blackchocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\milkfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\milkfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\steamedmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\steamedmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\whitechocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\whitechocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\wiskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\wiskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\syrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\syrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\sugervanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\sugervanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\liqour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\liqour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\lemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\lemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\honey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\honey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\halfmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\halfmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\dacoratorpattern\\003 - decoratorpattern\\003 - decoratorpattern\\decoratorpattern\\condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:11:16.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Whip.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Whip.cs",
+              "RelativeDocumentMoniker": "Condiments\\Whip.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Whip.cs",
+              "RelativeToolTip": "Condiments\\Whip.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawCMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:59:01.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IceCream.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\IceCream.cs",
+              "RelativeDocumentMoniker": "Condiments\\IceCream.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\IceCream.cs",
+              "RelativeToolTip": "Condiments\\IceCream.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:08.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Beverage.cs",
+              "RelativeDocumentMoniker": "Beverages\\Beverage.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Beverage.cs",
+              "RelativeToolTip": "Beverages\\Beverage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:47:10.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlackChocolate.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\BlackChocolate.cs",
+              "RelativeDocumentMoniker": "Condiments\\BlackChocolate.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\BlackChocolate.cs",
+              "RelativeToolTip": "Condiments\\BlackChocolate.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:36:11.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Water.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Water.cs",
+              "RelativeDocumentMoniker": "Beverages\\Water.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Water.cs",
+              "RelativeToolTip": "Beverages\\Water.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:10:39.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Milk.cs",
+              "RelativeDocumentMoniker": "Beverages\\Milk.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Milk.cs",
+              "RelativeToolTip": "Beverages\\Milk.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:00:18.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Espresso.cs",
+              "RelativeDocumentMoniker": "Beverages\\Espresso.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Espresso.cs",
+              "RelativeToolTip": "Beverages\\Espresso.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:34:35.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chocolate.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Chocolate.cs",
+              "RelativeDocumentMoniker": "Beverages\\Chocolate.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Beverages\\Chocolate.cs",
+              "RelativeToolTip": "Beverages\\Chocolate.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:10:37.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SteamedMilk.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\SteamedMilk.cs",
+              "RelativeDocumentMoniker": "Condiments\\SteamedMilk.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\SteamedMilk.cs",
+              "RelativeToolTip": "Condiments\\SteamedMilk.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAawCMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:57:44.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MilkFoam.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\MilkFoam.cs",
+              "RelativeDocumentMoniker": "Condiments\\MilkFoam.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\MilkFoam.cs",
+              "RelativeToolTip": "Condiments\\MilkFoam.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawCMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:56:33.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Wiskey.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Wiskey.cs",
+              "RelativeDocumentMoniker": "Condiments\\Wiskey.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Wiskey.cs",
+              "RelativeToolTip": "Condiments\\Wiskey.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:09:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WhiteChocolate.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\WhiteChocolate.cs",
+              "RelativeDocumentMoniker": "Condiments\\WhiteChocolate.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\WhiteChocolate.cs",
+              "RelativeToolTip": "Condiments\\WhiteChocolate.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:36:02.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SugerVanilla.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\SugerVanilla.cs",
+              "RelativeDocumentMoniker": "Condiments\\SugerVanilla.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\SugerVanilla.cs",
+              "RelativeToolTip": "Condiments\\SugerVanilla.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:58:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mocha.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Mocha.cs",
+              "RelativeDocumentMoniker": "Condiments\\Mocha.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Mocha.cs",
+              "RelativeToolTip": "Condiments\\Mocha.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:57:15.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Liqour.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Liqour.cs",
+              "RelativeDocumentMoniker": "Condiments\\Liqour.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Liqour.cs",
+              "RelativeToolTip": "Condiments\\Liqour.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:56:54.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Lemon.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Lemon.cs",
+              "RelativeDocumentMoniker": "Condiments\\Lemon.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Lemon.cs",
+              "RelativeToolTip": "Condiments\\Lemon.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:57:54.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ice.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Ice.cs",
+              "RelativeDocumentMoniker": "Condiments\\Ice.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Ice.cs",
+              "RelativeToolTip": "Condiments\\Ice.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:21.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Honey.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Honey.cs",
+              "RelativeDocumentMoniker": "Condiments\\Honey.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Honey.cs",
+              "RelativeToolTip": "Condiments\\Honey.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:58:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Syrop.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Syrop.cs",
+              "RelativeDocumentMoniker": "Condiments\\Syrop.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Syrop.cs",
+              "RelativeToolTip": "Condiments\\Syrop.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:41.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HalfMilk.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\HalfMilk.cs",
+              "RelativeDocumentMoniker": "Condiments\\HalfMilk.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\HalfMilk.cs",
+              "RelativeToolTip": "Condiments\\HalfMilk.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cream.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Cream.cs",
+              "RelativeDocumentMoniker": "Condiments\\Cream.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\Cream.cs",
+              "RelativeToolTip": "Condiments\\Cream.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:58:26.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CondimentDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\CondimentDecorator.cs",
+              "RelativeDocumentMoniker": "Condiments\\CondimentDecorator.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\dacoratorPattern\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\Condiments\\CondimentDecorator.cs",
+              "RelativeToolTip": "Condiments\\CondimentDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:46:27.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
